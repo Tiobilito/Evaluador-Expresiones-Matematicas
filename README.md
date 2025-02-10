@@ -17,7 +17,7 @@ Este proyecto es una aplicación de Windows Forms que permite evaluar expresione
 
 1. Clona este repositorio:
     ```sh
-    git clone https://github.com/tu-usuario/Evaluador-Expresiones-Matematicas.git
+    git clone https://github.com/Tiobilito/Evaluador-Expresiones-Matematicas.git
     ```
 
 2. Abre el archivo de solución `Practica 4.sln` en Visual Studio.
@@ -38,11 +38,11 @@ Este proyecto es una aplicación de Windows Forms que permite evaluar expresione
 
 ### Interfaz Principal
 
-![Interfaz Principal](ruta/a/la/captura1.png)
+![Interfaz Principal](./Assets/Principal.jpg)
 
 ### Ejemplo de Evaluación
 
-![Ejemplo de Evaluación](ruta/a/la/captura2.png)
+![Ejemplo de Evaluación](./Assets/Evaluacion.jpg)
 
 ## Estructura del Proyecto
 
